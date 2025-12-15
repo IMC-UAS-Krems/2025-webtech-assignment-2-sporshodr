@@ -1,0 +1,17 @@
+  h1{
+    text-align: center;
+    color: rgb(210, 157, 60);
+}
+
+img{
+    width: 189px;
+    height: 310px;
+}
+h2{
+    margin-left: 1%;
+    font:bold;
+    color: palevioletred;
+}
+.text{
+    margin-left: 1%;
+}
